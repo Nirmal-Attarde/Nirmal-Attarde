@@ -27,7 +27,7 @@ Business Intelligence: Power BI, Tableau, Advanced Excel
 
 Project Management: Agile, Scrum, JIRA
 
-Tools: MS Office 365, Git, Slack, Trello
+Tools: MS Office 365, Git, Slack
 
 ## Let's Connect 🤝
 
