@@ -5,11 +5,6 @@
 ## Who Am I?
 Hey, I’m Nirmal, a proactive professional with a positive attitude and experience in implementing innovative solutions and leveraging agile methodologies. I am currently pursuing a master's degree in Information Management and working towards building a career as a Software Engineer.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Nirmal16091999/count.svg" />
-</p>
-
 <!-- ## What I'm Up To
  🌱 Currently cultivating my skills in AWS and Azure. 
 
