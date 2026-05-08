@@ -25,6 +25,6 @@ Tools: AI, LLM, RAG, Gen AI, Agentic AI
 
 ## Let's Connect 🤝
 
-📧 Email: attardenirmal420@gmail.com
+📧 Email: attarden16@gmail.com
 
 💼 LinkedIn: [Nirmal Attarde](https://www.linkedin.com/in/nirmal-attarde/)
