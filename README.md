@@ -15,13 +15,13 @@ Hey, I’m Nirmal, a proactive professional with a positive attitude and experie
 🚀 Developing my skills in Data Warehousing and Information consulting.-->
 
 ## My Toolbox 🧰
-Data Analysis: Java, Python, SQL
+Python, Java, Python, SQL
 
 Business Intelligence: Power BI, Tableau, Advanced Excel
 
 Project Management: Agile, Scrum, JIRA
 
-Tools: MS Office 365, Git, Slack
+Tools: AI, LLM, RAG, Gen AI, Agentic AI
 
 ## Let's Connect 🤝
 
