@@ -3,10 +3,10 @@
 </p>
 
 ## Who Am I?
-Hey, I’m Nirmal, a proactive professional with a positive attitude and experience in implementing innovative solutions and leveraging agile methodologies. I am currently pursuing a master's degree in Information Management and working towards building a career as a Software Engineer.
+Hey, I’m Nirmal, a proactive professional with a positive attitude and experience in implementing innovative solutions and leveraging agile methodologies. I am a recent graduate with a master's degree in Information Management from UIUC and am working towards building a career as a Software Engineer.
 
 <!-- ## What I'm Up To
- 🌱 Currently cultivating my skills in AWS and Azure. 
+ 🌱 Currently cultivating my skills in SDE. 
 
 📊 Crafting actionable insights through data analysis.
 
@@ -15,13 +15,11 @@ Hey, I’m Nirmal, a proactive professional with a positive attitude and experie
 🚀 Developing my skills in Data Warehousing and Information consulting.-->
 
 ## My Toolbox 🧰
-Python, Java, Python, SQL
-
-Business Intelligence: Power BI, Tableau, Advanced Excel
+Python, Java, SQL
 
 Project Management: Agile, Scrum, JIRA
 
-Tools: AI, LLM, RAG, Gen AI, Agentic AI
+Tools: AI, LLM, RAG, CI/CD
 
 ## Let's Connect 🤝
 
